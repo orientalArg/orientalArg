@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<img url="" />
+
+<strong>I'm a full stack developer Student </strong>
+
 <!--
 **jrcoh12/jrcoh12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
