@@ -1,8 +1,4 @@
 ### Hi there 👋
-<style> img {
-  width:320px;
-  height:200px;
-}</style>
 
 <img url="" />
 
