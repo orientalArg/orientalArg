@@ -3,13 +3,7 @@
 <br>
 <strong>I'm a full stack developer Student </strong>
 
-<style>
-    img {
-        width: 400px;
-        height: 400px;
-    }
-</style>
-<img src="facePhoto.png" alt="">
+<img src="facePhoto.png" alt="" style="width:400px; height:400px;">
 <br>
 <br>
 <strong>📫 How to reach me:</strong> <br>Send me an Email <br> orientalArg@outlook.com
