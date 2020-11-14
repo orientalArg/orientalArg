@@ -2,9 +2,9 @@
 <br>
 <strong>I'm a full stack developer Student </strong>
 
-<img src="https://scontent-eze1-1.xx.fbcdn.net/v/t1.0-9/125126466_102592101672236_6581619416672609404_n.jpg?_nc_cat=101&ccb=2&_nc_sid=09cbfe&_nc_ohc=MH0jxOBVjlgAX_u1grQ&_nc_ht=scontent-eze1-1.xx&oh=6152ebb2a6b3ad7799f79d0f7051ce7c&oe=5FD635B0" alt="" />
+<img style="width:300px;" src="https://scontent-eze1-1.xx.fbcdn.net/v/t1.0-9/125126466_102592101672236_6581619416672609404_n.jpg?_nc_cat=101&ccb=2&_nc_sid=09cbfe&_nc_ohc=MH0jxOBVjlgAX_u1grQ&_nc_ht=scontent-eze1-1.xx&oh=6152ebb2a6b3ad7799f79d0f7051ce7c&oe=5FD635B0" alt=""/>
 <br>
-<strong>📫 How to reach me:</strong> <br>Send me an Email <br> <a href="mailto:orientalArg@outlook.com> 📧 </a>
+<strong>📫 How to reach me:</strong> <br>📧 orientalArg@outlook.com<br> 
 
 <!--
 **orientalArg/orientalArg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
