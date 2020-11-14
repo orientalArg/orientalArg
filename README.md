@@ -1,6 +1,6 @@
 ### Hi there 👋
-<br>
 <strong>I'm a full stack developer Student </strong>
+<br>
 <br>
 <strong>📫 How to reach me:</strong> <br>📧 orientalArg@outlook.com<br> 
 
