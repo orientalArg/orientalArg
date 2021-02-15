@@ -16,10 +16,12 @@ I Enjoy Web design and programming.
 <details>
   <summary>About me.</summary>
   <br>
-  - :argentina: I'm from Argentina, i get my first job in construction and i worked assemblig concrete molds for two years. 
-  
-    -- I learned from that experience that hard work pays off.
+  - I'm from Argentina, i get my first job in construction and i worked assemblig concrete molds for two years. 
+     
+     -- I learned from that experience that hard work pays off.
   <br>
+  
+  
   - 📚 Love to read, my favorite genre is heroic fantasy.
   
   - ☸  I'm buddhist since i was 13 years old, i believe in the self realization and peace.
