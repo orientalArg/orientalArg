@@ -11,6 +11,7 @@ I Enjoy Web design and programming.
 - Mail: [orientalArg@outlook.com]
 
 - Twitter: [@orientalArg](https://twitter.com/orientalArg)
+
 <hr>
 
 <details>
@@ -21,7 +22,6 @@ I Enjoy Web design and programming.
      -- I learned from that experience that hard work pays off.
   <br>
   
-  
   - 📚 Love to read, my favorite genre is heroic fantasy.
   
   - ☸  I'm buddhist since i was 13 years old, i believe in the self realization and peace.
@@ -30,6 +30,7 @@ I Enjoy Web design and programming.
   
   - 🧠 I enjoy study and learn new stuff.
 
+  <br>
 </details>
 
 
