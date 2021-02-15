@@ -8,7 +8,8 @@ I Enjoy Web design and programming.
 
 ## Contact 🔗:
 <br>
-- E-mail: [orientalArg@outlook.com]
+
+- Mail: [orientalArg@outlook.com]
 
 - Twitter: [@orientalArg](https://twitter.com/orientalArg)
 <hr>
