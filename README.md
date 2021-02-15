@@ -7,7 +7,6 @@ I Enjoy Web design and programming.
 <br>
 
 ## Contact 🔗:
-<br>
 
 - Mail: [orientalArg@outlook.com]
 
