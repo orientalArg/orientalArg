@@ -22,13 +22,13 @@
      -- I learned from that experience that hard work pays off.
   <br>
   
-  - 📚 Love to read, my favorite genre is heroic fantasy.
+  - 📚 I love reading, my favorite genre is heroic fantasy.
   
   - ☸  I'm buddhist since i was 13 years old, i believe in the self realization and peace.
   
   - 💻 I'm a hacking enthusiast, and certified ethical hacker (pentester).
   
-  - 🧠 I enjoy study and learn new stuff.
+  - 🧠 I enjoy study and learn new stuffes, i always try to get up date with technology.
 
   <br>
 </details>
