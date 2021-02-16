@@ -1,7 +1,7 @@
 ## Hellow there 👋
 
 <h3>
-I Enjoy Web design and programming.
+  I'm a Web Designer who loves Programming.
 </h3>
 
 <br>
@@ -33,8 +33,8 @@ I Enjoy Web design and programming.
   <br>
 </details>
 
-
 <hr>
+
 <h3 align="center">
    <i><strong>“Simplicity is a prerequisite for reliability” -- Edsger dijkstra</strong></i>
    <br>
