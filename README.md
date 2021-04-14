@@ -17,7 +17,7 @@
 <details>
   <summary>About me.</summary>
   <br>
-  - I'm from Argentina, i have worked assemblig concrete molds for two years. 
+  - I'm from Argentina, i've worked assemblig concrete molds for two years. 
      
      -- I learned from that experience that hard work pays off.
   <br>
