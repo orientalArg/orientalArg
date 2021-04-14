@@ -3,7 +3,6 @@
 <h3>
   I'm a Web Designer who loves Programming.
 </h3>
-<hr>
 <br>
 
 ## Contact 🔗:
@@ -11,8 +10,6 @@
 - Mail: [orientalArg@outlook.com]
 
 - Twitter: [@orientalArg](https://twitter.com/orientalArg)
-
-<hr>
 <br>
 
 <details><summary><h2>About Me.</h2></summary>
@@ -34,7 +31,6 @@
 </details>
 
 <hr>
-
 <h3 align="center">
   <p>My approach can be defined as the synthesis of this phrase.</p>
    <i><strong>“Simplicity is a prerequisite for reliability” --- Edsger dijkstra</strong></i>
