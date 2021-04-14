@@ -30,11 +30,11 @@
   
     - 🧠 I enjoy studying and learning new things, i always try to be up to date with technology.
 
-  <br>
   </details>
 </h3>
+<br>
 
-<p align="center">My approach can be defined as the synthesis of this phrase.</p>
+<p align="center">My approach can be defined as the synthesis of this phrase:</p>
 <hr>
 <h3 align="center">
    <i><strong>“Simplicity is a prerequisite for reliability” --- Edsger dijkstra</strong></i>
