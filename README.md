@@ -3,7 +3,7 @@
 <h3>
   I'm a Web Designer who loves Programming.
 </h3>
-
+<hr>
 <br>
 
 ## Contact 🔗:
