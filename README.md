@@ -36,7 +36,7 @@
 <hr>
 
 <h3 align="center">
-  <p>I always have this phrase as a guide on my projects.</p>
+  <p>My approach can be defined as the synthesis of this phrase.</p>
    <i><strong>“Simplicity is a prerequisite for reliability” --- Edsger dijkstra</strong></i>
    <br>
    <br>
