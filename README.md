@@ -17,7 +17,7 @@
 <details>
   <summary>About me.</summary>
   <br>
-  - I'm from Argentina, i've worked assemblig concrete molds for two years. 
+  - I'm from Argentina, i worked assemblig concrete molds for two years. 
      
      -- I learned from that experience that hard work pays off.
   <br>
@@ -36,6 +36,7 @@
 <hr>
 
 <h3 align="center">
+  <p>I always have this phrase as a guide on my projects.</p>
    <i><strong>“Simplicity is a prerequisite for reliability” --- Edsger dijkstra</strong></i>
    <br>
    <br>
