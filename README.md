@@ -28,7 +28,8 @@
   
     - 💻 I'm a hacking enthusiast, and certified ethical hacker (pentester).
   
-    - 🧠 I enjoy studying and learning new things, i always try to be up to date with technology.
+    - 🧠 I enjoy studying and learning new things, i always try to be up to date 
+    with technology.
 
   </details>
 </h3>
