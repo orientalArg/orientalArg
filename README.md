@@ -15,7 +15,7 @@
 <hr>
 
 <details>
-  <summary><h1>About Me.</h1></summary>
+  <summary><h3>About Me.</h3></summary>
   <br>
   - I'm from Argentina, i worked assemblig concrete molds for two years. 
      
