@@ -16,8 +16,10 @@
  <details>
   <summary>About Me.</summary>
   <br>
+   
     - I'm from Argentina, i worked assemblig concrete molds for two years. 
-    -- I learned from that experience that hard work pays off.
+       -- I learned from that experience that hard work pays off.
+       
   <br>
   
     - 📚 I love reading, my favorite genre is heroic fantasy.
@@ -28,7 +30,7 @@
   
     - 🧠 I enjoy studying and learning new things, i always try to be up to date with technology.
 
-    <br>
+  <br>
   </details>
 </h3>
 
