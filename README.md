@@ -12,7 +12,8 @@
 - Twitter: [@orientalArg](https://twitter.com/orientalArg)
 <br>
 
-<details><summary><h2>About Me.</h2></summary>
+<details>
+  <h2><summary>About Me.</summary></h2>
   <br>
   - I'm from Argentina, i worked assemblig concrete molds for two years. 
      
