@@ -12,8 +12,8 @@
 - Twitter: [@orientalArg](https://twitter.com/orientalArg)
 <br>
 
-<details>
-  <h2><summary>About Me.</summary></h2>
+<h2><details>
+  <summary>About Me.</summary>
   <br>
   - I'm from Argentina, i worked assemblig concrete molds for two years. 
      
@@ -30,7 +30,8 @@
 
   <br>
 </details>
-
+</h3>
+  
 <hr>
 <h3 align="center">
   <p>My approach can be defined as the synthesis of this phrase.</p>
