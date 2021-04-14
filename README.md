@@ -24,11 +24,11 @@
   
   - 📚 I love reading, my favorite genre is heroic fantasy.
   
-  - ☸  I'm buddhist since i was 13 years old, i believe in the self realization and peace.
+  - ☸  I'm buddhist since eight years ago, i believe in the self realization and peace.
   
   - 💻 I'm a hacking enthusiast, and certified ethical hacker (pentester).
   
-  - 🧠 I enjoy study and learn new stuffes, i always try to get up date with technology.
+  - 🧠 I enjoy studying and learning new things, i always try to be up to date with technology.
 
   <br>
 </details>
