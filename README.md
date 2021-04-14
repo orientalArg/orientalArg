@@ -5,32 +5,33 @@
 </h3>
 <br>
 
-## Contact 🔗:
+## Contact :
 
 - Mail: [orientalArg@outlook.com]
 
 - Twitter: [@orientalArg](https://twitter.com/orientalArg)
 <br>
 
-<h2><details>
+<h3>
+ <details>
   <summary>About Me.</summary>
   <br>
-  - I'm from Argentina, i worked assemblig concrete molds for two years. 
-     -- I learned from that experience that hard work pays off.
+    - I'm from Argentina, i worked assemblig concrete molds for two years. 
+    -- I learned from that experience that hard work pays off.
   <br>
   
-  - 📚 I love reading, my favorite genre is heroic fantasy.
+    - 📚 I love reading, my favorite genre is heroic fantasy.
   
-  - ☸  I'm buddhist since eight years ago, i believe in the self realization and peace.
+    - ☸  I'm buddhist since eight years ago, i believe in the self realization and peace.
   
-  - 💻 I'm a hacking enthusiast, and certified ethical hacker (pentester).
+    - 💻 I'm a hacking enthusiast, and certified ethical hacker (pentester).
   
-  - 🧠 I enjoy studying and learning new things, i always try to be up to date with technology.
+    - 🧠 I enjoy studying and learning new things, i always try to be up to date with technology.
 
-  <br>
-</details>
+    <br>
+  </details>
 </h3>
-  
+
 <hr>
 <h3 align="center">
   <p>My approach can be defined as the synthesis of this phrase.</p>
