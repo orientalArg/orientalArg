@@ -9,7 +9,6 @@
 
 - Mail: [orientalArg@outlook.com]
 
-- Twitter: [@orientalArg](https://twitter.com/orientalArg)
 <br>
 
 <h3>
