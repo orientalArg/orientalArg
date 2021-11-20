@@ -8,6 +8,7 @@
 ## Contact :
 
 - Mail: [orientalArg@outlook.com]
+- Instagram [@sonochusmo]
 
 <br>
 
@@ -16,8 +17,8 @@
   <summary>About Me.</summary>
   <br>
    
-    - I'm from Argentina, i worked assemblig concrete molds for two years. 
-       -- I learned from that experience that hard work pays off.
+    - I'm from Argentina, i've worked assemblig concrete molds for two years. 
+       -- I learnt from that experience that hard work pays off.
        
   <br>
   
