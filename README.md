@@ -1,7 +1,7 @@
 ## Hellow there 👋
 
 <h3>
-  I'm a Web Designer who loves Programming.
+I'm a Front End Developer & UI desigenr
 </h3>
 <br>
 
@@ -24,7 +24,7 @@
   
     - 📚 I love reading, my favorite genre is heroic fantasy.
   
-    - ☸  I'm buddhist since eight years ago, i believe in the self realization and peace.
+    - ☸  I'm buddhist since eight years ago.
   
     - 💻 I'm a hacking enthusiast, and certified ethical hacker (pentester).
   
