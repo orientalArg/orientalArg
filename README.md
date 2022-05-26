@@ -8,8 +8,6 @@ I'm a Front End Developer & UI desigenr
 ## Contact :
 
 - Mail: [orientalArg@outlook.com]
-- Instagram [@sonochusmo]
-
 <br>
 
 <h3>
