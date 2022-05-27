@@ -1,12 +1,9 @@
-## Hellow there 👋
-
+# Hellow there 👋
 <h3>
-I'm a Front End Developer & UI desigenr
+I'm a Front End Developer & UI designer
 </h3>
-<br>
 
-## Contact :
-
+# Contact :
 - Mail: [orientalArg@outlook.com]
 <br>
 
