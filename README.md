@@ -11,16 +11,12 @@ I'm a Front End Developer & UI designer
  <details>
   <summary>About Me.</summary>
   <br>
-   
-    - I'm from Argentina, i've worked assemblig concrete molds for two years. 
-       -- I learnt from that experience that hard work pays off.
-       
+   I've got two plus years of experience with frontend prototyping.
+   Landing Pages, Galleries, Music Players, Blogs/News and eCommerce.  
   <br>
   
-    - 📚 I love reading, my favorite genre is heroic fantasy.
-  
-    - ☸  I'm buddhist since eight years ago.
-  
+    - 📚 I love reading, my favorite genre is fantasy.
+
     - 💻 I'm a hacking enthusiast, and certified ethical hacker (pentester).
   
     - 🧠 I enjoy studying and learning new things, i always try to be up to date 
@@ -30,7 +26,7 @@ I'm a Front End Developer & UI designer
 </h3>
 <br>
 
-<p align="center">My approach can be defined as the synthesis of this phrase:</p>
+<p align="center">My motto in programming and life:</p>
 <hr>
 <h3 align="center">
    <i><strong>“Simplicity is a prerequisite for reliability” --- Edsger dijkstra</strong></i>
