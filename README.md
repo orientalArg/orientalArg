@@ -10,9 +10,7 @@ I'm a Front End Developer & UI designer
 <h3>
  <details>
   <summary>About Me.</summary>
-  <br>
-   I've got two plus years of experience with frontend prototyping.
-   Landing Pages, Galleries, Music Players, Blogs/News and eCommerce.  
+
   <br>
   
     - 📚 I love reading, my favorite genre is fantasy.
