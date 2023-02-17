@@ -24,7 +24,7 @@ I'm a Front End Developer & UI designer
 </h3>
 <br>
 
-<p align="center">My motto in programming and life:</p>
+<p align="center">My motto</p>
 <hr>
 <h3 align="center">
    <i><strong>“Simplicity is a prerequisite for reliability” --- Edsger dijkstra</strong></i>
