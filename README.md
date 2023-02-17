@@ -3,10 +3,6 @@
 I'm a Front End Developer & UI designer
 </h3>
 
-# Contact :
-- Mail: [orientalArg@outlook.com]
-<br>
-
 <h3>
  <details>
   <summary>About Me.</summary>
