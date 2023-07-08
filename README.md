@@ -1,4 +1,5 @@
-# Hi there! Welcome to my GitHub corner.
+# Hi there! Welcome 
+to my corner on GitHub.
 
 #### &darr; Find me on my website here:
 [![welcome](https://www.figma.com/profile/908314209309808562/cover_image?e406ac33-7ca3-4066-8a3c-23b6c201d15a)](https://bit.ly/personalWebsiteContactMe)
