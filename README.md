@@ -23,6 +23,6 @@
 
 Hope you've found what you were looking for,
 
-in case you didn't keep scrolling to the pinned projects.
+in case you didn't, keep scrolling to the pinned projects.
 
 Regards, Joaquín R.
