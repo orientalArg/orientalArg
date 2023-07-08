@@ -11,9 +11,10 @@
 
 ## Looking for a developer?
 &darr; find me on different platforms
- [![fiverr](https://th.bing.com/th?id=ODLS.248cca61-4987-4b0f-9b47-bb2872b2414a&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2)](https://www.fiverr.com/joaquinreyno623) [![Upwork](https://th.bing.com/th?id=ODLS.102712b1-4c58-4958-a5e6-1977d257f078&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2)](https://www.upwork.com/freelancers/~0117753d45764f61bb)
+ - [![fiverr](https://th.bing.com/th?id=ODLS.248cca61-4987-4b0f-9b47-bb2872b2414a&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2)](https://www.fiverr.com/joaquinreyno623)
+ - [![Upwork](https://th.bing.com/th?id=ODLS.102712b1-4c58-4958-a5e6-1977d257f078&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2)](https://www.upwork.com/freelancers/~0117753d45764f61bb)
  
  ### Need assistance with web development ?
  > If you're working in a non profit project feel free to send me an email, 
  > I will answer asap.
- > [![fiverr](https://th.bing.com/th?id=ODLS.8f0ce0d8-2449-458c-bf41-a8532cffd6c5&w=32&h=32&qlt=92&pcl=fffffa&o=6&pid=1.2)](emailto:orientalarg@outlook.com)
+ > - [![fiverr](https://th.bing.com/th?id=ODLS.8f0ce0d8-2449-458c-bf41-a8532cffd6c5&w=32&h=32&qlt=92&pcl=fffffa&o=6&pid=1.2)](emailto:orientalarg@outlook.com)
