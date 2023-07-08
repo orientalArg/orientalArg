@@ -16,4 +16,4 @@
  ### Need assistance with web development ?
  > If you're working in a non profit project feel free to send me an email, 
  > I will answer asap.
-  [![fiverr](https://th.bing.com/th?id=ODLS.8f0ce0d8-2449-458c-bf41-a8532cffd6c5&w=32&h=32&qlt=92&pcl=fffffa&o=6&pid=1.2)](emailto:orientalarg@outlook.com)
+ > [![fiverr](https://th.bing.com/th?id=ODLS.8f0ce0d8-2449-458c-bf41-a8532cffd6c5&w=32&h=32&qlt=92&pcl=fffffa&o=6&pid=1.2)](emailto:orientalarg@outlook.com)
