@@ -7,7 +7,6 @@
 #### &darr; Find me on Figma!
 - Take a look at some of my designs
 - Click on one that may fit you, 
-- and find its source files in the description
 - [![fiverr](https://th.bing.com/th?id=ODLS.27416eed-7578-439e-ae1c-f0392d225a34&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2)](https://figma.com/@orientalArg)
 
 ## Looking for a developer?
