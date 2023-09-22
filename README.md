@@ -1,5 +1,5 @@
-# Hi there! 
-# Welcome to my github corner.
+<h2> Hi there! </h2>
+<h3> Welcome to my github corner.</h3>
 
 #### &darr; Find me on my website here:
 [![welcome](https://www.figma.com/profile/908314209309808562/cover_image?e406ac33-7ca3-4066-8a3c-23b6c201d15a)](https://joaquinreynoso.vercel.app/)
