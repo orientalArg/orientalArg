@@ -1,3 +1,6 @@
+#### &darr; My website here
+[![welcome](https://www.figma.com/profile/908314209309808562/cover_image?e406ac33-7ca3-4066-8a3c-23b6c201d15a)](https://joaquinreynoso.vercel.app/)
+<br>
 ## Hi there! 
 My name is Joaquin Reynoso and I'm a web developer.
 <br>
@@ -17,9 +20,6 @@ Figma - Cms's. - Git -
 
 [learning]
 Typescript - React Native
-
-#### &darr; Find me on my website here:
-[![welcome](https://www.figma.com/profile/908314209309808562/cover_image?e406ac33-7ca3-4066-8a3c-23b6c201d15a)](https://joaquinreynoso.vercel.app/)
 
 #### &darr; Find me on Figma!
 - Take a look at some of my designs
