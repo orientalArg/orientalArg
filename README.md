@@ -16,7 +16,10 @@ I'm a developer based in Argentina, I've been working as a freelance developer f
 | --- | --- |
 | Figma - Cms's. - Git - eslint  | Typescript - React Native |
 
-[Languages] I'm a native Spanish speaker and I'm fluent in englsih
+### Languages
+| Native | Other |
+| --- | --- |
+|  Spanish | English |
 
 #### &darr; Find me on Figma!
 - Take a look at some of my designs
