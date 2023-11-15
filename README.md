@@ -15,7 +15,7 @@ CSS - Sass/Scss - Bootstrap & Tailwind
 Node - Express - Laravel - PHP - MongoDB - Mysql
 
 [others]
-Figma - Cms's. - Git - 
+Figma - Cms's. - Git - eslint
 
 [learning]
 Typescript - React Native
