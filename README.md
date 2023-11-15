@@ -1,7 +1,6 @@
-## Hi there! 
-### Welcome to my github corner.
-
-Hi, I'm Joaquín Reynoso, I'm a web developer. I've been working as a freelance developer for the past three years. I am fluent in JavaScript. Whenever possible, I like developing products with Modern JavaScript Frameworks like React and Astro.
+## Hi there! I'm Joaquín Reynoso, I'm a web developer. 
+### A little about me:
+I've been working as a freelance developer for the past three years. I am fluent in JavaScript. Whenever possible, I like developing products with Modern JavaScript Frameworks like React and Astro.
 
 #### My Stack: 
 [front end]
