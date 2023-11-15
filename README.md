@@ -8,7 +8,7 @@ I'm a developer based in Argentina, I've been working as a freelance developer f
 
 #### My Stack: 
 [front end]
-HTML - JavaScript - React - Astro - Next 
+HTML - JavaScript - React - Astro - Next - 
 CSS - Sass/Scss - Bootstrap & Tailwind 
 
 [back end]
