@@ -1,7 +1,7 @@
 ## Hi there! 
 My name is Joaquin Reynoso and I'm a web developer.
 <br>
-### A little about me:
+#### A little about me:
 I've been working as a freelance developer for the past three years. I am fluent in JavaScript. Whenever possible, I like developing products with Modern JavaScript Frameworks like React and Astro.
 
 #### My Stack: 
