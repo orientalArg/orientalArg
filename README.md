@@ -7,17 +7,17 @@ My Website
 I'm a developer based in Argentina, I've been working as a freelance developer for the past three years. I am fluent in JavaScript, whenever possible, I like developing products with Modern JavaScript Frameworks like React and Astro.
 
 #### My Stack: 
-[front end]
+[front end]<br>
 HTML - JavaScript - React - Astro - Next - 
 CSS - Sass/Scss - Bootstrap & Tailwind 
 
-[back end]
+[back end]<br>
 Node - Express - Laravel - PHP - MongoDB - Mysql
 
-[others]
+[others]<br>
 Figma - Cms's. - Git - eslint
 
-[learning]
+[learning]<br>
 Typescript - React Native
 
 [Languages] I'm a native Spanish speaker and I'm fluent in englsih
