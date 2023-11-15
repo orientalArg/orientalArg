@@ -1,6 +1,22 @@
 ## Hi there! 
 ### Welcome to my github corner.
 
+Hi, I'm Joaquín Reynoso, I'm a web developer. I've been working as a freelance developer for the past three years. I am fluent in JavaScript. Whenever possible, I like developing products with Modern JavaScript Frameworks like React and Astro.
+
+#### My Stack: 
+[front end]
+HTML - JavaScript - React - Astro - 
+CSS - Sass/Scss - Bootstrap & Tailwind 
+
+[back end]
+Node - Express - Laravel - PHP - MongoDB - Mysql
+
+[others]
+Figma - Cms's. - Git - 
+
+[learning]
+Typescript - React Native
+
 #### &darr; Find me on my website here:
 [![welcome](https://www.figma.com/profile/908314209309808562/cover_image?e406ac33-7ca3-4066-8a3c-23b6c201d15a)](https://joaquinreynoso.vercel.app/)
 
