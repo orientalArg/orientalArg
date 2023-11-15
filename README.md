@@ -12,12 +12,9 @@ I'm a developer based in Argentina, I've been working as a freelance developer f
 | HTML - JavaScript - React - Astro - Next -  | Node - Express - Laravel - |
 | CSS - Sass/Scss - Bootstrap & Tailwind | PHP - MongoDB - Mysql|
 
-
-others
-Figma - Cms's. - Git - eslint
-
-learning
-Typescript - React Native
+| Others | Learning |
+| --- | --- |
+| Figma - Cms's. - Git - eslint  | Typescript - React Native |
 
 [Languages] I'm a native Spanish speaker and I'm fluent in englsih
 
