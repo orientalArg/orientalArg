@@ -2,7 +2,7 @@ My Website
 [![welcome](https://www.figma.com/profile/908314209309808562/cover_image?b10cc5e1-dd68-43dd-ae80-c2f4b7b0c722)](https://joaquinreynoso.vercel.app/)
 <br>
 
-### A little about me:
+### A little About Me:
 I'm a developer based in Argentina, I've been working as a freelance developer for the past three years. I am fluent in JavaScript, whenever possible, I like developing products with Modern JavaScript Frameworks like React and Astro.
 
 ### My Stack: 
