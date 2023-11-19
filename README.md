@@ -11,14 +11,14 @@ I'm a developer based in Argentina, I've been working as a freelance developer f
 | HTML - JavaScript - React - Astro - Next -  | Node - Express - Laravel - PHP |
 | CSS - Sass/Scss - Bootstrap & Tailwind |
 
-| Others | Learning |
-| --- | --- |
-| Figma - Cms's. - Git - eslint  | Typescript - React Native |
+| Others | Learning | Database |
+| --- | --- | --- |
+| Figma - Cms's. - Git - eslint  | Typescript - React Native | MongoDB - Mysql |
 
 ### Languages
-| Native | Other | Database |
-| --- | --- | --- |
-|  Spanish | English | MongoDB - Mysql |
+| Native | Other |
+| --- | --- |
+|  Spanish | English |
 
 #### &darr; Find me on Figma!
 - Take a look at some of my designs
