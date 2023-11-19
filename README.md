@@ -6,9 +6,9 @@ My Website
 I'm a developer based in Argentina, I've been working as a freelance developer for the past three years. I am fluent in JavaScript, whenever possible, I like developing products with Modern JavaScript Frameworks like React and Astro.
 
 ### My Stack: 
-| Frontend | Backend | Database |
-| --- | --- | --- |
-| HTML - JavaScript - React - Astro - Next -  | Node - Express - Laravel - PHP | MongoDB - Mysql |
+| Frontend | Backend | 
+| --- | --- |
+| HTML - JavaScript - React - Astro - Next -  | Node - Express - Laravel - PHP |
 | CSS - Sass/Scss - Bootstrap & Tailwind |
 
 | Others | Learning |
@@ -16,9 +16,9 @@ I'm a developer based in Argentina, I've been working as a freelance developer f
 | Figma - Cms's. - Git - eslint  | Typescript - React Native |
 
 ### Languages
-| Native | Other |
-| --- | --- |
-|  Spanish | English |
+| Native | Other | Database |
+| --- | --- | --- |
+|  Spanish | English | MongoDB - Mysql |
 
 #### &darr; Find me on Figma!
 - Take a look at some of my designs
