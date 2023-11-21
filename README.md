@@ -21,12 +21,14 @@ I'm a developer based in Argentina, I've been working as a freelance developer f
 
 <br>
 <br>
+
  #  Looking for a developer?
 #### &darr; Find me on Figma!
 
  Take a look at my designs, find the one that may fit you <br> <br>
  [![fiverr](https://th.bing.com/th?id=ODLS.27416eed-7578-439e-ae1c-f0392d225a34&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2)](https://figma.com/@orientalArg)
 <br> <br>
+
 #### &darr; Find me on different platforms 
  Read reviews and Ask for an estimate  <br> <br>
  [![Upwork](https://th.bing.com/th?id=ODLS.102712b1-4c58-4958-a5e6-1977d257f078&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2)](https://www.upwork.com/freelancers/~0117753d45764f61bb)
