@@ -3,9 +3,9 @@
 <br>
 
 <h1 style="margin:1em;">A Little About Me:</h1>
-<p>
-I'm a developer based in Argentina, I've been working as a freelance developer for the past three years. I am fluent in JavaScript, whenever possible, I like developing products with Modern JavaScript Frameworks like React and Astro.
-</p>
+
+#### I'm a developer based in Argentina, I've been working as a freelance developer for the past three years. I am fluent in JavaScript, whenever possible, I like developing products with Modern JavaScript Frameworks like React and Astro.
+
 
 <br>
 <h1 style="margin:1em;">My Stack: </h1>
