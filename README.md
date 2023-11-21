@@ -2,40 +2,25 @@
 [![welcome](https://www.figma.com/profile/908314209309808562/cover_image?b10cc5e1-dd68-43dd-ae80-c2f4b7b0c722)](https://joaquinreynoso.vercel.app/)
 <br>
 
-<div style="width:80%;margin:1em auto;text-align:center;">
-
----
-
 <h1 style="margin:1em;">A Little About Me:</h1>
 <p>
 I'm a developer based in Argentina, I've been working as a freelance developer for the past three years. I am fluent in JavaScript, whenever possible, I like developing products with Modern JavaScript Frameworks like React and Astro.
-
 </p>
 
+<br>
+<br>
+<h1 style="welcome :1em;">My Stack: </h1>
 
-<h1 style="margin:1em;">My Stack: </h1>
-
-<img title="react" height="45px" src="https://joaquinreynoso.vercel.app/react.svg" alt="image" />
-<img title="astro" height="45px" src="https://joaquinreynoso.vercel.app/astro.svg" alt="image" />
-<img title="html" height="45px" src="https://joaquinreynoso.vercel.app/html.svg" alt="image" />
-<img title="css" height="45px" src="https://joaquinreynoso.vercel.app/css.svg" alt="image" />
-<img title="javascript" height="45px" src="https://joaquinreynoso.vercel.app/js.svg" alt="image" />
-<img title="sass" height="45px" src="https://joaquinreynoso.vercel.app/scss.svg" alt="image" />
-
-
-<img title="mongo DB" height="45px" src="https://www.opc-router.de/wp-content/uploads/2021/03/mongodb_thumbnail.png" alt="image" />
-<img title="MySQL" height="45px" src="https://wiki.cifprodolfoucha.es/images/8/8e/Mysql_logo.png" alt="image" />
-<img title="mongo DB" height="45px" src="https://static-00.iconduck.com/assets.00/node-js-icon-227x256-913nazt0.png" alt="image" />
-<img title="MySQL" height="45px" src="https://www.simplilearn.com/ice9/tools_covered/ExpressJS-logo.png" alt="image" />
-
-
-
+<img title="react" height="45px" src="https://joaquinreynoso.vercel.app/react.svg" alt="image" /><img title="astro" height="45px" src="https://joaquinreynoso.vercel.app/astro.svg" alt="image" /><img title="html" height="45px" src="https://joaquinreynoso.vercel.app/html.svg" alt="image" /><img title="css" height="45px" src="https://joaquinreynoso.vercel.app/css.svg" alt="image" /><img title="javascript" height="45px" src="https://joaquinreynoso.vercel.app/js.svg" alt="image" /><img title="sass" height="45px" src="https://joaquinreynoso.vercel.app/scss.svg" alt="image" />
+<img title="mongo DB" height="45px" src="https://www.opc-router.de/wp-content/uploads/2021/03/mongodb_thumbnail.png" alt="image" /><img title="MySQL" height="45px" src="https://wiki.cifprodolfoucha.es/images/8/8e/Mysql_logo.png" alt="image" /><img title="mongo DB" height="45px" src="https://static-00.iconduck.com/assets.00/node-js-icon-227x256-913nazt0.png" alt="image" /><img title="MySQL" height="45px" src="https://www.simplilearn.com/ice9/tools_covered/ExpressJS-logo.png" alt="image" />
 
 | Others | Learning | 
 | --- | --- |
 |  Figma - ESlint - Jira - Git - Sanity - Payload | Typescript - React Native - php - laravel |
 
 
+<br>
+<br>
  #  Looking for a developer?
 #### &darr; Find me on Figma!
 
@@ -57,6 +42,3 @@ I'm a developer based in Argentina, I've been working as a freelance developer f
  Hope you've found what you were looking for, in case you didn't, keep scrolling to the pinned projects.
  <b>Regards, Joaquín R.</b>
  </p>
-
-
-</div>
