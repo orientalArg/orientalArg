@@ -10,12 +10,11 @@ I'm a developer based in Argentina, I've been working as a freelance developer f
 <br>
 <h1 style="margin:1em;">My Stack: </h1>
 
-<img title="react" height="45px" style="margin:1em" src="https://joaquinreynoso.vercel.app/react.svg" alt="image" /><img title="astro" height="45px" src="https://joaquinreynoso.vercel.app/astro.svg" alt="image" /><img title="html" height="45px" src="https://joaquinreynoso.vercel.app/html.svg" alt="image" /><img title="css" height="45px" src="https://joaquinreynoso.vercel.app/css.svg" alt="image" /><img title="javascript" height="45px" src="https://joaquinreynoso.vercel.app/js.svg" alt="image" /><img title="sass" height="45px" src="https://joaquinreynoso.vercel.app/scss.svg" alt="image" />
-<img title="mongo DB" height="45px" src="https://www.opc-router.de/wp-content/uploads/2021/03/mongodb_thumbnail.png" alt="image" /><img title="MySQL" height="45px" src="https://wiki.cifprodolfoucha.es/images/8/8e/Mysql_logo.png" alt="image" /><img title="mongo DB" height="45px" src="https://static-00.iconduck.com/assets.00/node-js-icon-227x256-913nazt0.png" alt="image" />
+<img title="HTML . CSS . JavaScript . Astro . React . Sass . Tailwind . mySQL . MongoDB . Express + Nodejs . PHP  " src="https://github.com/orientalArg/orientalArg/blob/master/Dise%C3%B1o%20sin%20t%C3%ADtulo.png?raw=true" alt />
 
 | Others | Learning | 
 | --- | --- |
-|  Figma - ESlint - Jira - Git - Sanity - Payload | Typescript - React Native - php - laravel |
+|  ESlint - Jira - Git - Sanity - Payload | Typescript - React Native - laravel |
 
 <br>
 <br>
