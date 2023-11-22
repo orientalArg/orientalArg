@@ -7,11 +7,11 @@
 <h1 style="margin:1em;">A Little About Me:</h1>
 
 
-#### I am Joaquín Reynoso, I'm a Frontend Developer. I am fluent in Javascript, whenever possible, I like developing products with Modern Javascript Frameworks like React and Astro. 
+I am Joaquín Reynoso, I'm a Frontend Developer. I am fluent in Javascript, whenever possible, I like developing products with Modern Javascript Frameworks like React and Astro. 
 
-#### I have experience as a frontend developer, working in developers teams coding React components and as a freelancer coding individual projects like jamstack blogs, landing pages and other small projects.
+I have experience as a frontend developer, working in developers teams coding React components and as a freelancer coding individual projects like jamstack blogs, landing pages and other small projects.
 
-#### If you are looking for a frontend developer to join your team or have a proposal you want to discuss, feel free to contact me and I will answer as soon as possible.
+If you are looking for a frontend developer to join your team or have a proposal you want to discuss, feel free to contact me and I will answer as soon as possible.
 
  
 &darr; Get in touch
@@ -22,7 +22,7 @@
 
 <br>
 
- # My Stack:
+<h1 style="margin:1em;">My Stack:</h1>
 
 <br>
 
@@ -36,11 +36,11 @@
 
 <br>
 
-#  Looking for a freelancer?
-#### &darr; Find me on different platforms 
+<h1 style="margin:1em;">Looking for a freelancer?</h1>
+<h3> &darr; Find me on different platforms </h3>
  Read reviews, ask for an estimate & keep it safe with payment protection
 
-<br>
+<br><br>
  
 | Upwork | Fiverr | Figma |
 | --- | --- | --- |
