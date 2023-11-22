@@ -6,8 +6,10 @@
  
 <h1 style="margin:1em;">A Little About Me:</h1>
 
+
 #### I am Joaquín Reynoso, Frontend Developer. I am fluent in Javascript, whenever possible, I like developing products with Modern Javascript Frameworks like React.js and Astro. I've been working as a freelance developer for the past three years. 
 
+ 
 &darr; Get in touch
 
 | Email | Linkedin | Personal |
