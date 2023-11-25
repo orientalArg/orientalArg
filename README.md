@@ -26,7 +26,7 @@ If you are looking for a frontend developer to join your team or have a proposal
 
 <br>
 
-<img title="HTML . CSS . JavaScript . Astro . React . Sass . Tailwind . mySQL . MongoDB . Express + Nodejs . PHP  " src="https://github.com/orientalArg/orientalArg/blob/master/Dise%C3%B1o%20sin%20t%C3%ADtulo.png?raw=true" alt />
+<img title="Figma . HTML . CSS . JavaScript . Astro . React . Sass . Tailwind . mySQL . MongoDB . Express + Nodejs . PHP  " src="https://github.com/orientalArg/orientalArg/blob/master/ICONS%20BAR.png?raw=true" alt />
 
 <br> <br>
 
