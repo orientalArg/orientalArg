@@ -18,7 +18,7 @@ If you are looking for a frontend developer to join your team or have a proposal
 
 | Email | Linkedin | Personal |
 | --- | --- | --- |
- | [![fiverr](https://th.bing.com/th?id=ODLS.8f0ce0d8-2449-458c-bf41-a8532cffd6c5&w=32&h=32&qlt=92&pcl=fffffa&o=6&pid=1.2)](mailto:orientalarg@outlook.com) | [![Linkedin](https://icons-for-free.com/iconfiles/ico/32/super+tiny+icons+linkedin-1324450747503589428.ico)](https://www.linkedin.com/in/orientalarg/) | [![portfolio](https://github.com/orientalArg/orientalArg/blob/master/ICO%20size%2040x40.png?raw=true)](https://joaquinreynoso.vercel.app/)
+ | [![fiverr](https://th.bing.com/th?id=ODLS.8f0ce0d8-2449-458c-bf41-a8532cffd6c5&w=32&h=32&qlt=92&pcl=fffffa&o=6&pid=1.2)](mailto:orientalarg@outlook.com) | [![Linkedin](https://joaquinreynoso.vercel.app/images/contact/linkedin.svg)](https://www.linkedin.com/in/orientalarg/) | [![portfolio](https://github.com/orientalArg/orientalArg/blob/master/ICO%20size%2040x40.png?raw=true)](https://joaquinreynoso.vercel.app/)
 
 <br>
 
