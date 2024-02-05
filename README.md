@@ -7,8 +7,7 @@
  
 <h1 style="margin:1em;">A Little About Me:</h1>
 
-
-My name is Joaquín, I'm a Frontend Developer fluent in Javascript, whenever possible, I like developing products with Modern Javascript Frameworks like React and Astro. 
+My name is Joaquín, I'm a Frontend Developer fluent in Javascript, whenever possible, I like developing products with Modern Javascript Frameworks like React and Astro.
 
 I have experience as a frontend developer, working in developers teams coding React components and as a freelancer coding individual projects like jamstack blogs, landing pages and other small projects.
 
@@ -27,7 +26,7 @@ If you are looking for a frontend developer to join your team or have a proposal
 
 <br>
 
-<img title="Figma . HTML . CSS . JavaScript . Astro . React . Sass . Tailwind . mySQL . MongoDB . Express + Nodejs . PHP  " src="https://github.com/orientalArg/orientalArg/blob/master/ICONS%20BAR.png?raw=true" alt />
+<img title="Figma · HTML · CSS · JavaScript · Astro · React · Sass · Tailwind · mySQL · MongoDB · Express + Nodejs · PHP  " src="https://github.com/orientalArg/orientalArg/blob/master/ICONS%20BAR.png?raw=true" alt />
 
 <br> <br>
 
@@ -58,3 +57,4 @@ If you are looking for a frontend developer to join your team or have a proposal
  
  <b>Regards, Joaquín R.</b>
  </p>
+
