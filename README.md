@@ -7,11 +7,11 @@
  
 <h1 style="margin:1em;">A Little About Me:</h1>
 
-My name is Joaquín, I'm a Frontend Developer fluent in Javascript, whenever possible, I like developing products with Modern Javascript Frameworks like React and Astro.
+My name is Joaquín, I'm a Frontend Developer fluent in Javascript, whenever possible,<br> I like developing products with Modern Javascript Frameworks like React and Astro.
 
-I have experience as a frontend developer, working in developers teams coding React components and as a freelancer coding individual projects like jamstack blogs, landing pages and other small projects.
+I have experience as a frontend developer, working in developers teams coding React components <br> and as a freelancer coding individual projects like jamstack blogs, landing pages and other small projects.
 
-If you are looking for a frontend developer to join your team or have a proposal you want to discuss, feel free to contact me and I will answer as soon as possible.
+If you are looking for a frontend developer to join your team or have a proposal you want to discuss,<br> feel free to contact me and I will answer as soon as possible.
 
  
 &darr; Get in touch
