@@ -30,9 +30,9 @@ If you are looking for a frontend developer to join your team or have a proposal
 
 <br> <br>
 
-| Others | Learning | CMS's |
+| Others | Learning | CMS |
 | --- | --- | --- |
-|  ESlint - Jira - Git | Typescript - Laravel | Sanity - Payload - Tina |
+|  ESlint - Jira - Git - Nest | Typescript - Laravel | Sanity - Payload - Tina |
 
 <br>
 
