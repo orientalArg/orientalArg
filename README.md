@@ -20,21 +20,7 @@ If you are looking for a frontend developer to join your team or have a proposal
 | --- | --- | --- |
  | [![fiverr](https://th.bing.com/th?id=ODLS.8f0ce0d8-2449-458c-bf41-a8532cffd6c5&w=32&h=32&qlt=92&pcl=fffffa&o=6&pid=1.2)](mailto:orientalarg@outlook.com) | [![Linkedin](https://joaquinreynoso.vercel.app/images/contact/linkedin.svg)](https://www.linkedin.com/in/orientalarg/) | [![portfolio](https://github.com/orientalArg/orientalArg/blob/master/ICO%20size%2040x40.png?raw=true)](https://joaquinreynoso.vercel.app/)
 
-<br>
-
-<h1 style="margin:1em;">My Stack:</h1>
-
-<br>
-
-<img title="Figma · HTML · CSS · JavaScript · Astro · React · Sass · Tailwind · mySQL · MongoDB · Express + Nodejs · PHP  " src="https://github.com/orientalArg/orientalArg/blob/master/ICONS%20BAR.png?raw=true" alt />
-
-<br> <br>
-
-| Others | Learning | CMS |
-| --- | --- | --- |
-|  ESlint - Jira - Git - Next.js | TypeScript - Golang | Sanity - Payload - Tina |
-
-<br>
+<br><br>
 
 <h1 style="margin:1em;">Looking for a freelancer?</h1>
 <h3> &darr; Find me on different platforms </h3>
