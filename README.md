@@ -42,7 +42,7 @@ If you are looking for a frontend developer to join your team or have a proposal
 
 <br><br>
  
-| Upwork | Figma |
+| `Upwork` | `Figma` |
 | --- | --- |
 | [![Upwork](https://th.bing.com/th?id=ODLS.102712b1-4c58-4958-a5e6-1977d257f078&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2)](https://www.upwork.com/freelancers/~0117753d45764f61bb) | [![fiverr](https://th.bing.com/th?id=ODLS.27416eed-7578-439e-ae1c-f0392d225a34&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2)](https://figma.com/@orientalArg) |
 
