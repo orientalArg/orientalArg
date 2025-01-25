@@ -9,9 +9,9 @@
 
 My name is Joaquín, I'm a Front End Developer fluent in Javascript, whenever possible,<br> I like developing products with Modern Javascript Frameworks like React and Astro.
 
-I have experience as a frontend developer, working with developer teams on React and Next projects, and as a freelancer working on individual projects like jamstack blogs, landing pages and CLI tools with Deno and Node.
+I have experience as a frontend developer, working with developer teams on React and Next projects,<br />and as a freelancer working on individual projects like jamstack blogs, landing pages and CLI tools with Deno and Node.
 
-I'm also a UX designer; In my free time like to explore web design concepts, colaborating on open source projects and trying new tech.<br />
+IIn my free time like to explore web design concepts, colaborating on open source projects and trying new tech.<br />
 If you have a proposal, feel free to contact me and I will answer as soon as possible.
 
  
