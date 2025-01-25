@@ -11,7 +11,7 @@ My name is Joaquín, I'm a Front End Developer fluent in Javascript, whenever po
 
 I have experience as a frontend developer, working with developer teams on React and Next projects, and as a freelancer working on individual projects like jamstack blogs, landing pages and CLI tools with Deno and Node.
 
-I'm also a UX designer, and In my free time I like designing websites, colaborating on open source projects and trying new tech.<br />
+I'm also a UX designer; In my free time like to explore web design concepts, colaborating on open source projects and trying new tech.<br />
 If you have a proposal, feel free to contact me and I will answer as soon as possible.
 
  
