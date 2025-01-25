@@ -41,8 +41,6 @@ If you are looking for a frontend developer to join your team or have a proposal
 ---
 
 <p style="text-align:left;">
- Hope you've found what you were looking for, in case you didn't, keep scrolling to the pinned projects.
- 
- <b>Regards, Joaquín R.</b>
+ Hope you've found what you were looking for, in case you didn't, keep scrolling to the pinned projects. <b>Regards, Joaquín R.</b>
  </p>
 
