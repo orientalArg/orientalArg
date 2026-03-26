@@ -1,4 +1,8 @@
-<div align=center>
+<div  align=center>
+  <img alt="ubuntu logo" src="https://img.shields.io/badge/ubuntu-green?style=for-the-badge&logo=ubuntu&color=2E3436"/>
+  <img alt="niri logo" src="https://img.shields.io/badge/niri%20WM-green?style=for-the-badge&logo=niri&color=2E3436"/>
+  <img alt="nvim logo" src="https://img.shields.io/badge/dank%20media%20shell-green?style=for-the-badge&logo=linux&logoColor=white&color=2E3436"/>
+
   <img src="https://www.figma.com/profile/908314209309808562/cover_image?e9dc522b-8ec0-44af-9604-1bf900f77f7e" />
 
   <a href="https://figma.com/@orientalArg/">
@@ -12,20 +16,12 @@
   </a>
 </div>
 
-<div  align=center>
-  
-  ## System
-
-  <img alt="nvim logo" src="https://img.shields.io/badge/niri-green?style=for-the-badge&logo=niri&color=2E3436"/>
-  <img alt="nvim logo" src="https://img.shields.io/badge/niri-green?style=for-the-badge&logo=&color=2E3436"/>
-  <img alt="nvim logo" src="https://img.shields.io/badge/niri-green?style=for-the-badge&logo=niri&color=2E3436"/>
-</div>
 
 <div align="center">
   <sub>Languages & Tooling</sub><br/>
   <img alt="figma" src="https://img.shields.io/badge/figma-red?style=for-the-badge&logo=figma&color=2E3436">
-  <img alt="figma" src="https://img.shields.io/badge/inkscape-white?style=for-the-badge&logo=inkscape&color=2E3436">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-090318?style=for-the-badge&logo=typescript&logoColor=61E2FF&color=2E3436"/>
+  <img alt="inkscape org logo" src="https://img.shields.io/badge/inkscape-white?style=for-the-badge&logo=inkscape&color=2E3436">
+  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-2e3436?style=for-the-badge&logo=typescript&logoColor=61E2FF&color=2E3436"/>
   <img alt="Biome" src="https://img.shields.io/badge/Biome-090318?style=for-the-badge&logo=biome&logoColor=61E2FF&color=2E3436"/>
   <img alt="Vite" src="https://img.shields.io/badge/Vite-090318?style=for-the-badge&logo=vite&logoColor=FFCC00&color=2E3436"/>
   <img alt="Lua" src="https://img.shields.io/badge/Lua-090318?style=for-the-badge&logo=lua&logoColor=FC199A&color=2E3436"/>
@@ -43,8 +39,7 @@
 
 <div align="center">
 
-### stats
-
+<div hidden>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=orientalarg&repo=orientalarg&show_icons=true&theme=dracula&locale=en"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orientalarg&repo=orientalarg&show_icons=true&locale=en"/>
