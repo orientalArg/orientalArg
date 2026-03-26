@@ -39,12 +39,4 @@
 
 <div align="center">
 
-<div hidden>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=orientalarg&repo=orientalarg&show_icons=true&theme=dracula&locale=en"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orientalarg&repo=orientalarg&show_icons=true&locale=en"/>
-  </picture>
-
-</div>
-
 <sub>credits: <a href="shields.io/badges">badges</a>, <a href="simpleicons.org">icons</a> & <a href="https://github.com/anuraghazra/github-readme-stats/">github stats</a></sub>
