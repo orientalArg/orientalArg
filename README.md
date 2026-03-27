@@ -3,10 +3,6 @@
 </p>
 
 <div  align=center>
-  <img alt="ubuntu logo" src="https://img.shields.io/badge/ubuntu-green?style=for-the-badge&logo=ubuntu&color=2E3436"/>
-  <img alt="niri logo" src="https://img.shields.io/badge/niri%20WM-green?style=for-the-badge&logo=niri&color=2E3436"/>
-  <img alt="nvim logo" src="https://img.shields.io/badge/dank%20media%20shell-green?style=for-the-badge&logo=linux&logoColor=white&color=2E3436"/>
-
   <img src="https://www.figma.com/profile/908314209309808562/cover_image?e9dc522b-8ec0-44af-9604-1bf900f77f7e" />
 
   <a href="https://figma.com/@orientalArg/">
