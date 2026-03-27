@@ -1,5 +1,5 @@
 <p align="right">
-  <sub>credits: <a href="shields.io/badges">badges</a>, <a href="simpleicons.org">icons</a> & <a href="https://github.com/anuraghazra/github-readme-stats/">github stats</a></sub>
+  <sub>credits: <a href="https://shields.io/badges/">badges</a>, <a href="https://simpleicons.org/">icons</a> & <a href="https://github.com/anuraghazra/github-readme-stats/">github stats</a></sub>
 </p>
 
 <div  align=center>
