@@ -12,5 +12,6 @@
     <a href="https://github.com/orientalArg/nvim">
     <img alt="Neovim dotfiles configuration repository link badge with green background" src="https://img.shields.io/badge/Nvim-Dotfiles%20↗-green?style=for-the-badge&logo=neovim&color=2E3436">
     </a>
-   <img src="github.com/orientalArg/blob/main/figma_@orientalArg_cover.png" />
+
+   <img src="https://github.com/orientalArg/orientalArg/blob/main/figma_@orientalArg_cover.png?raw=true" />
 </div>
